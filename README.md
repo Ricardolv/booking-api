@@ -3,7 +3,7 @@
 ```
 1.Rest Controllers
 2.Database access
-3.Rendering views with
+3.Rendering views with Thymeleaf
 4.Angular JS
 5.Documentting our Rest controllers with JsonDoc
 6.Application configuration
